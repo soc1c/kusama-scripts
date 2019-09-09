@@ -9,5 +9,5 @@ console.log(`Last update: ${date_now}\n\n`);
 console.log("### Validator candidates and rewards:");
 for (let i = 0; i < validators[0].length; i++) {
   const reward = validators[1][i].validatorPayment / decimals;
-  console.log(`- [\`${validators[0][i]}\`](${explorer_prefix}${validators[0][i]}): ${reward} KSM`);
+  console.log(`- [\`${validators[0][i]}\`](${explorer_prefix}${validators[0][i]}): ${reward} ${symbol}`);
 }
