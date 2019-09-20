@@ -1,9 +1,25 @@
-Last update: Mon, 09 Sep 2019 09:18:03 GMT
+Last update: Fri, 20 Sep 2019 16:22:20 GMT
 
 ### Validator candidates and rewards:
+- [`EtcZsDjmn4p4e1hNAd6FkAN62yhAV1Zc1Epc4PT7teuNL2s`](https://polkascan.io/pre/kusama/account/EtcZsDjmn4p4e1hNAd6FkAN62yhAV1Zc1Epc4PT7teuNL2s): 0 KSM
+- [`D8SUgBqqbjg32RKQdSxS9XuaQ6UWKuGNgrVyofzD5kXhaJT`](https://polkascan.io/pre/kusama/account/D8SUgBqqbjg32RKQdSxS9XuaQ6UWKuGNgrVyofzD5kXhaJT): 0 KSM
+- [`CrDvXaVGt8HFWGyKGUGwKW1a3AFvfmY1y46NVcgtjcgoa7g`](https://polkascan.io/pre/kusama/account/CrDvXaVGt8HFWGyKGUGwKW1a3AFvfmY1y46NVcgtjcgoa7g): 0 KSM
+- [`HRPW2yeG84Z7uGouPyCvDFR2W61CCe9dkABhrToxgjPQ97i`](https://polkascan.io/pre/kusama/account/HRPW2yeG84Z7uGouPyCvDFR2W61CCe9dkABhrToxgjPQ97i): 0 KSM
+- [`G888FeGoWMPmcJ6JLm2YXfsf38khvaXtpXnXWpKY2GKHBN2`](https://polkascan.io/pre/kusama/account/G888FeGoWMPmcJ6JLm2YXfsf38khvaXtpXnXWpKY2GKHBN2): 10 KSM
+- [`GUuKb4xZuZ13JoDgzWNMC4E1u4166uvkWihvNzZTD3VAHiX`](https://polkascan.io/pre/kusama/account/GUuKb4xZuZ13JoDgzWNMC4E1u4166uvkWihvNzZTD3VAHiX): 1 KSM
+- [`EZnvefir4bQfzEVFFdTzqjWohxM8Wpx7KxbRJJ5CHo3nCBH`](https://polkascan.io/pre/kusama/account/EZnvefir4bQfzEVFFdTzqjWohxM8Wpx7KxbRJJ5CHo3nCBH): 0 KSM
+- [`G7eJUS1A7CdcRb2Y3zEDvfAJrM1QtacgG6mPD1RsPTJXxPQ`](https://polkascan.io/pre/kusama/account/G7eJUS1A7CdcRb2Y3zEDvfAJrM1QtacgG6mPD1RsPTJXxPQ): 1 KSM
+- [`Fsspzse4QY1KqagdyrVqDt7cmVBr3HSVsfJ38WKgxsLVaXo`](https://polkascan.io/pre/kusama/account/Fsspzse4QY1KqagdyrVqDt7cmVBr3HSVsfJ38WKgxsLVaXo): 0 KSM
+- [`EtJ4HxHYEDvYWRJAdmV4hYpTbGMJCmEgnLC8zAf6u5ZyT7C`](https://polkascan.io/pre/kusama/account/EtJ4HxHYEDvYWRJAdmV4hYpTbGMJCmEgnLC8zAf6u5ZyT7C): 1 KSM
+- [`G7Ur4BnMSfP2qE7ruSob5gwGQ5nzkGWu7Yqh14FcMqnDtgB`](https://polkascan.io/pre/kusama/account/G7Ur4BnMSfP2qE7ruSob5gwGQ5nzkGWu7Yqh14FcMqnDtgB): 1 KSM
+- [`FtcERzFaCxB2ZR17PVeNxjAntfQ8a9KwS5i1bTYGWq15Yab`](https://polkascan.io/pre/kusama/account/FtcERzFaCxB2ZR17PVeNxjAntfQ8a9KwS5i1bTYGWq15Yab): 0.5 KSM
+- [`EakrutF2hSayUqLJYb5wc6qqXkjr8EkGax1UhNzPi1ujBv9`](https://polkascan.io/pre/kusama/account/EakrutF2hSayUqLJYb5wc6qqXkjr8EkGax1UhNzPi1ujBv9): 0 KSM
+- [`FfN5P9GqDLuW9oJ57uUZ9bCqNULwkgkLB1jMAEJ4KN7WTwd`](https://polkascan.io/pre/kusama/account/FfN5P9GqDLuW9oJ57uUZ9bCqNULwkgkLB1jMAEJ4KN7WTwd): 0 KSM
+- [`H1ye1dQ7zVM8obAmb21kfUKA8otRekWXn6fiToKusamaJK9`](https://polkascan.io/pre/kusama/account/H1ye1dQ7zVM8obAmb21kfUKA8otRekWXn6fiToKusamaJK9): 10 KSM
+- [`FAp5gVpwhwdmnJ1Ycet9z6Uva5tnfyCfA3AaY7WGi7u3DU4`](https://polkascan.io/pre/kusama/account/FAp5gVpwhwdmnJ1Ycet9z6Uva5tnfyCfA3AaY7WGi7u3DU4): 0 KSM
 - [`FygwPLFGJrNwfeL8N5Mcu4craBCMWKZqvkQn79EAwBhPdi9`](https://polkascan.io/pre/kusama/account/FygwPLFGJrNwfeL8N5Mcu4craBCMWKZqvkQn79EAwBhPdi9): 1 KSM
 - [`GFE82PQadBP1KhdUTwqfSeRtThUhuYjc8iHGdwMXoAaN3Bn`](https://polkascan.io/pre/kusama/account/GFE82PQadBP1KhdUTwqfSeRtThUhuYjc8iHGdwMXoAaN3Bn): 1 KSM
-- [`EUwcW86EFGDoDfUP2UJYuBwhCWC7cW9SdFH9cPh6UPBvBHj`](https://polkascan.io/pre/kusama/account/EUwcW86EFGDoDfUP2UJYuBwhCWC7cW9SdFH9cPh6UPBvBHj): 0 KSM
+- [`EUwcW86EFGDoDfUP2UJYuBwhCWC7cW9SdFH9cPh6UPBvBHj`](https://polkascan.io/pre/kusama/account/EUwcW86EFGDoDfUP2UJYuBwhCWC7cW9SdFH9cPh6UPBvBHj): 0.001 KSM
 - [`CsHw8cfzbnKdkCuUq24yuaPyJ1E5a55sNPqejJZ4h7CRtEs`](https://polkascan.io/pre/kusama/account/CsHw8cfzbnKdkCuUq24yuaPyJ1E5a55sNPqejJZ4h7CRtEs): 0 KSM
 - [`GcqKn3HHodwcFc3Pg3Evcbc43m7qJNMiMv744e5WMSS7TGn`](https://polkascan.io/pre/kusama/account/GcqKn3HHodwcFc3Pg3Evcbc43m7qJNMiMv744e5WMSS7TGn): 13.37 KSM
 - [`EAStB93xBDT5cziyLAjeb5j9GnxCfL2QbBczsyje3o3GUvs`](https://polkascan.io/pre/kusama/account/EAStB93xBDT5cziyLAjeb5j9GnxCfL2QbBczsyje3o3GUvs): 0 KSM
@@ -12,9 +28,9 @@ Last update: Mon, 09 Sep 2019 09:18:03 GMT
 - [`FFdDXFK1VKG5QgjvqwxdVjo8hGrBveaBFfHnWyz1MAmLL82`](https://polkascan.io/pre/kusama/account/FFdDXFK1VKG5QgjvqwxdVjo8hGrBveaBFfHnWyz1MAmLL82): 0 KSM
 - [`HbSZ1bL6HEcBDdLUy7J1aBBPyoPWWqNhv8qv1ifY94t8bGr`](https://polkascan.io/pre/kusama/account/HbSZ1bL6HEcBDdLUy7J1aBBPyoPWWqNhv8qv1ifY94t8bGr): 0.001 KSM
 - [`DKWxptgDxUemsMPwRgW3YYD9ng1CPPzdQo2Xu6PuvCcjXfj`](https://polkascan.io/pre/kusama/account/DKWxptgDxUemsMPwRgW3YYD9ng1CPPzdQo2Xu6PuvCcjXfj): 0 KSM
-- [`Ghw9swKjtCTZfEqEmzZkkqK4vEKQFz86HctEdGprQbNzpc7`](https://polkascan.io/pre/kusama/account/Ghw9swKjtCTZfEqEmzZkkqK4vEKQFz86HctEdGprQbNzpc7): 100 KSM
-- [`Dab4bfYTZRUDMWjYAUQuFbDreQ9mt7nULWu3Dw7jodbzVe9`](https://polkascan.io/pre/kusama/account/Dab4bfYTZRUDMWjYAUQuFbDreQ9mt7nULWu3Dw7jodbzVe9): 100 KSM
-- [`CmD9vaMYoiKe7HiFnfkftwvhKbxN9bhyjcDrfFRGbifJEG8`](https://polkascan.io/pre/kusama/account/CmD9vaMYoiKe7HiFnfkftwvhKbxN9bhyjcDrfFRGbifJEG8): 1 KSM
+- [`Ghw9swKjtCTZfEqEmzZkkqK4vEKQFz86HctEdGprQbNzpc7`](https://polkascan.io/pre/kusama/account/Ghw9swKjtCTZfEqEmzZkkqK4vEKQFz86HctEdGprQbNzpc7): 10 KSM
+- [`Dab4bfYTZRUDMWjYAUQuFbDreQ9mt7nULWu3Dw7jodbzVe9`](https://polkascan.io/pre/kusama/account/Dab4bfYTZRUDMWjYAUQuFbDreQ9mt7nULWu3Dw7jodbzVe9): 10 KSM
+- [`CmD9vaMYoiKe7HiFnfkftwvhKbxN9bhyjcDrfFRGbifJEG8`](https://polkascan.io/pre/kusama/account/CmD9vaMYoiKe7HiFnfkftwvhKbxN9bhyjcDrfFRGbifJEG8): 2 KSM
 - [`DNDBcYD8zzqAoZEtgNzouVp2sVxsvqzD4UdB5WrAUwjqpL8`](https://polkascan.io/pre/kusama/account/DNDBcYD8zzqAoZEtgNzouVp2sVxsvqzD4UdB5WrAUwjqpL8): 1 KSM
 - [`F89JAYkWvLw3HUxfeL4su1biEDWNfJn1QYvwevwanMNaZKN`](https://polkascan.io/pre/kusama/account/F89JAYkWvLw3HUxfeL4su1biEDWNfJn1QYvwevwanMNaZKN): 1 KSM
 - [`GUEWJi5DPxDyjmqqGng5PdSCHYALRhtS1v8KT1uCicRbfxk`](https://polkascan.io/pre/kusama/account/GUEWJi5DPxDyjmqqGng5PdSCHYALRhtS1v8KT1uCicRbfxk): 0 KSM
