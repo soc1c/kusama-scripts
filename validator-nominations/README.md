@@ -1,6 +1,87 @@
-Last update: Mon, 09 Sep 2019 09:38:14 GMT
+Last update: Fri, 20 Sep 2019 16:18:54 GMT
 
 ### Nominators and nominations:
+- [`DpMtCDz7RgrPby8p3zqcvFgf2EJKxKtj1gNKUQHLn6sSyy9`](https://polkascan.io/pre/kusama/account/DpMtCDz7RgrPby8p3zqcvFgf2EJKxKtj1gNKUQHLn6sSyy9) (183.568414 KSM) nominates:
+  - [`G7eJUS1A7CdcRb2Y3zEDvfAJrM1QtacgG6mPD1RsPTJXxPQ`](https://polkascan.io/pre/kusama/account/G7eJUS1A7CdcRb2Y3zEDvfAJrM1QtacgG6mPD1RsPTJXxPQ)
+  - [`GUuKb4xZuZ13JoDgzWNMC4E1u4166uvkWihvNzZTD3VAHiX`](https://polkascan.io/pre/kusama/account/GUuKb4xZuZ13JoDgzWNMC4E1u4166uvkWihvNzZTD3VAHiX)
+  - [`FtcERzFaCxB2ZR17PVeNxjAntfQ8a9KwS5i1bTYGWq15Yab`](https://polkascan.io/pre/kusama/account/FtcERzFaCxB2ZR17PVeNxjAntfQ8a9KwS5i1bTYGWq15Yab)
+  - [`G888FeGoWMPmcJ6JLm2YXfsf38khvaXtpXnXWpKY2GKHBN2`](https://polkascan.io/pre/kusama/account/G888FeGoWMPmcJ6JLm2YXfsf38khvaXtpXnXWpKY2GKHBN2)
+- [`FszFWJ6U82ct39q9q4tQdayPMZL1qf52z7332iXNhkMmBym`](https://polkascan.io/pre/kusama/account/FszFWJ6U82ct39q9q4tQdayPMZL1qf52z7332iXNhkMmBym) (45.879513 KSM) nominates:
+  - [`GUuKb4xZuZ13JoDgzWNMC4E1u4166uvkWihvNzZTD3VAHiX`](https://polkascan.io/pre/kusama/account/GUuKb4xZuZ13JoDgzWNMC4E1u4166uvkWihvNzZTD3VAHiX)
+- [`Cb36deRLY3BPaq1L8YXKaxhtCk3b76aMFMrvmyGQPEPfdYq`](https://polkascan.io/pre/kusama/account/Cb36deRLY3BPaq1L8YXKaxhtCk3b76aMFMrvmyGQPEPfdYq) (13.763447 KSM) nominates:
+  - [`G7eJUS1A7CdcRb2Y3zEDvfAJrM1QtacgG6mPD1RsPTJXxPQ`](https://polkascan.io/pre/kusama/account/G7eJUS1A7CdcRb2Y3zEDvfAJrM1QtacgG6mPD1RsPTJXxPQ)
+  - [`EtJ4HxHYEDvYWRJAdmV4hYpTbGMJCmEgnLC8zAf6u5ZyT7C`](https://polkascan.io/pre/kusama/account/EtJ4HxHYEDvYWRJAdmV4hYpTbGMJCmEgnLC8zAf6u5ZyT7C)
+  - [`FtcERzFaCxB2ZR17PVeNxjAntfQ8a9KwS5i1bTYGWq15Yab`](https://polkascan.io/pre/kusama/account/FtcERzFaCxB2ZR17PVeNxjAntfQ8a9KwS5i1bTYGWq15Yab)
+- [`FARef1Gms8gRR4MX2hVNk6PA6i22GhX82T9Eydp6GFcnUBx`](https://polkascan.io/pre/kusama/account/FARef1Gms8gRR4MX2hVNk6PA6i22GhX82T9Eydp6GFcnUBx) (52.761513 KSM) nominates:
+  - [`HqE13RoY1yntxvAvySn8ogit5XrX1EAxZe4HPPaFf48q8JM`](https://polkascan.io/pre/kusama/account/HqE13RoY1yntxvAvySn8ogit5XrX1EAxZe4HPPaFf48q8JM)
+- [`J2DmE7544rmeGvWwFcnkokGvRRFD8cBHZNTt7um3pEKr89K`](https://polkascan.io/pre/kusama/account/J2DmE7544rmeGvWwFcnkokGvRRFD8cBHZNTt7um3pEKr89K) (424.836512 KSM) nominates:
+  - [`GcqKn3HHodwcFc3Pg3Evcbc43m7qJNMiMv744e5WMSS7TGn`](https://polkascan.io/pre/kusama/account/GcqKn3HHodwcFc3Pg3Evcbc43m7qJNMiMv744e5WMSS7TGn)
+- [`FtjBEFvJUoBeZmHwjd68zTqnHUgw1nqwQ85F5P3JkgmD5uZ`](https://polkascan.io/pre/kusama/account/FtjBEFvJUoBeZmHwjd68zTqnHUgw1nqwQ85F5P3JkgmD5uZ) (316.575471 KSM) nominates:
+  - [`CanLB42xJughpTRC1vXStUryjWYkE679emign1af47QnAQC`](https://polkascan.io/pre/kusama/account/CanLB42xJughpTRC1vXStUryjWYkE679emign1af47QnAQC)
+  - [`Dab4bfYTZRUDMWjYAUQuFbDreQ9mt7nULWu3Dw7jodbzVe9`](https://polkascan.io/pre/kusama/account/Dab4bfYTZRUDMWjYAUQuFbDreQ9mt7nULWu3Dw7jodbzVe9)
+  - [`Ghw9swKjtCTZfEqEmzZkkqK4vEKQFz86HctEdGprQbNzpc7`](https://polkascan.io/pre/kusama/account/Ghw9swKjtCTZfEqEmzZkkqK4vEKQFz86HctEdGprQbNzpc7)
+  - [`DkihZAjoShjrewcY3QEEhfUYmKTG2c4doNinB5sa4BkCtHW`](https://polkascan.io/pre/kusama/account/DkihZAjoShjrewcY3QEEhfUYmKTG2c4doNinB5sa4BkCtHW)
+  - [`ET9SkhNZhY7KT474vkCEJtAjbgJdaqAGW4beeeUJyDQ3SnA`](https://polkascan.io/pre/kusama/account/ET9SkhNZhY7KT474vkCEJtAjbgJdaqAGW4beeeUJyDQ3SnA)
+  - [`Ff65mvwgfQJeCxjq59YZMUzg9HAR4mFVMapvYF4oFMzFP9j`](https://polkascan.io/pre/kusama/account/Ff65mvwgfQJeCxjq59YZMUzg9HAR4mFVMapvYF4oFMzFP9j)
+  - [`GPdebankLfiSGaEPQWJBVULEmX2VpNdnyqsa1uiFJGDhTdT`](https://polkascan.io/pre/kusama/account/GPdebankLfiSGaEPQWJBVULEmX2VpNdnyqsa1uiFJGDhTdT)
+  - [`HUewJvzVuEeyaxH2vx9XiyAPKrpu1Zj5r5Pi9VrGiBVty7q`](https://polkascan.io/pre/kusama/account/HUewJvzVuEeyaxH2vx9XiyAPKrpu1Zj5r5Pi9VrGiBVty7q)
+  - [`CcKPhXSyZgATZD1wVaRsSk81UfLcQvyuuS2i9FNhsoeQeWr`](https://polkascan.io/pre/kusama/account/CcKPhXSyZgATZD1wVaRsSk81UfLcQvyuuS2i9FNhsoeQeWr)
+  - [`EakrutF2hSayUqLJYb5wc6qqXkjr8EkGax1UhNzPi1ujBv9`](https://polkascan.io/pre/kusama/account/EakrutF2hSayUqLJYb5wc6qqXkjr8EkGax1UhNzPi1ujBv9)
+  - [`HqE13RoY1yntxvAvySn8ogit5XrX1EAxZe4HPPaFf48q8JM`](https://polkascan.io/pre/kusama/account/HqE13RoY1yntxvAvySn8ogit5XrX1EAxZe4HPPaFf48q8JM)
+  - [`F89JAYkWvLw3HUxfeL4su1biEDWNfJn1QYvwevwanMNaZKN`](https://polkascan.io/pre/kusama/account/F89JAYkWvLw3HUxfeL4su1biEDWNfJn1QYvwevwanMNaZKN)
+  - [`EAStB93xBDT5cziyLAjeb5j9GnxCfL2QbBczsyje3o3GUvs`](https://polkascan.io/pre/kusama/account/EAStB93xBDT5cziyLAjeb5j9GnxCfL2QbBczsyje3o3GUvs)
+  - [`FfN5P9GqDLuW9oJ57uUZ9bCqNULwkgkLB1jMAEJ4KN7WTwd`](https://polkascan.io/pre/kusama/account/FfN5P9GqDLuW9oJ57uUZ9bCqNULwkgkLB1jMAEJ4KN7WTwd)
+  - [`FAp5gVpwhwdmnJ1Ycet9z6Uva5tnfyCfA3AaY7WGi7u3DU4`](https://polkascan.io/pre/kusama/account/FAp5gVpwhwdmnJ1Ycet9z6Uva5tnfyCfA3AaY7WGi7u3DU4)
+  - [`FSfBJoCU9sRhCYWwQ55iBNGU5L8eu56iGnYGK9zizHxu8dY`](https://polkascan.io/pre/kusama/account/FSfBJoCU9sRhCYWwQ55iBNGU5L8eu56iGnYGK9zizHxu8dY)
+- [`FXPMrt1Jn6DRyUL1abknYR3Mpsgs7G5HuTVSA1c9MsM4NZi`](https://polkascan.io/pre/kusama/account/FXPMrt1Jn6DRyUL1abknYR3Mpsgs7G5HuTVSA1c9MsM4NZi) (64.231081 KSM) nominates:
+  - [`EAStB93xBDT5cziyLAjeb5j9GnxCfL2QbBczsyje3o3GUvs`](https://polkascan.io/pre/kusama/account/EAStB93xBDT5cziyLAjeb5j9GnxCfL2QbBczsyje3o3GUvs)
+  - [`HjZrUHN1oiEJhHetU44unLsVqcNeSMPu1iZyJoyNK749R3D`](https://polkascan.io/pre/kusama/account/HjZrUHN1oiEJhHetU44unLsVqcNeSMPu1iZyJoyNK749R3D)
+- [`Dhzy9dP19rh8wQksr4CzM5SZCgSt3NipqDcxR32JdTjqYDF`](https://polkascan.io/pre/kusama/account/Dhzy9dP19rh8wQksr4CzM5SZCgSt3NipqDcxR32JdTjqYDF) (42.209447 KSM) nominates:
+  - [`CanLB42xJughpTRC1vXStUryjWYkE679emign1af47QnAQC`](https://polkascan.io/pre/kusama/account/CanLB42xJughpTRC1vXStUryjWYkE679emign1af47QnAQC)
+  - [`Dab4bfYTZRUDMWjYAUQuFbDreQ9mt7nULWu3Dw7jodbzVe9`](https://polkascan.io/pre/kusama/account/Dab4bfYTZRUDMWjYAUQuFbDreQ9mt7nULWu3Dw7jodbzVe9)
+  - [`Ghw9swKjtCTZfEqEmzZkkqK4vEKQFz86HctEdGprQbNzpc7`](https://polkascan.io/pre/kusama/account/Ghw9swKjtCTZfEqEmzZkkqK4vEKQFz86HctEdGprQbNzpc7)
+- [`FSFKZPhSE37gFXfpGwkrPHnqzTsZnYUNiyKDG2LL6bqxGX1`](https://polkascan.io/pre/kusama/account/FSFKZPhSE37gFXfpGwkrPHnqzTsZnYUNiyKDG2LL6bqxGX1) (1072.336026 KSM) nominates:
+  - [`FfN5P9GqDLuW9oJ57uUZ9bCqNULwkgkLB1jMAEJ4KN7WTwd`](https://polkascan.io/pre/kusama/account/FfN5P9GqDLuW9oJ57uUZ9bCqNULwkgkLB1jMAEJ4KN7WTwd)
+  - [`CanLB42xJughpTRC1vXStUryjWYkE679emign1af47QnAQC`](https://polkascan.io/pre/kusama/account/CanLB42xJughpTRC1vXStUryjWYkE679emign1af47QnAQC)
+- [`FZpqfnyZ2MWaCpYLh9vtXbkBizXVuUjEDE16Rx2VcvrtwG7`](https://polkascan.io/pre/kusama/account/FZpqfnyZ2MWaCpYLh9vtXbkBizXVuUjEDE16Rx2VcvrtwG7) (4022.750512 KSM) nominates:
+  - [`GcqKn3HHodwcFc3Pg3Evcbc43m7qJNMiMv744e5WMSS7TGn`](https://polkascan.io/pre/kusama/account/GcqKn3HHodwcFc3Pg3Evcbc43m7qJNMiMv744e5WMSS7TGn)
+- [`F7LENZtaVzUeog9fNccW15qUhyMMXKPLhH6LNCv4QGg1ADv`](https://polkascan.io/pre/kusama/account/F7LENZtaVzUeog9fNccW15qUhyMMXKPLhH6LNCv4QGg1ADv) (76.569317 KSM) nominates:
+  - [`HqE13RoY1yntxvAvySn8ogit5XrX1EAxZe4HPPaFf48q8JM`](https://polkascan.io/pre/kusama/account/HqE13RoY1yntxvAvySn8ogit5XrX1EAxZe4HPPaFf48q8JM)
+- [`Eku8xabaSGEjZ6WWjKPjAtkaa8bLutiWUqKNrb4MJx8wqjX`](https://polkascan.io/pre/kusama/account/Eku8xabaSGEjZ6WWjKPjAtkaa8bLutiWUqKNrb4MJx8wqjX) (1101.13878 KSM) nominates:
+  - [`CanLB42xJughpTRC1vXStUryjWYkE679emign1af47QnAQC`](https://polkascan.io/pre/kusama/account/CanLB42xJughpTRC1vXStUryjWYkE679emign1af47QnAQC)
+  - [`Dab4bfYTZRUDMWjYAUQuFbDreQ9mt7nULWu3Dw7jodbzVe9`](https://polkascan.io/pre/kusama/account/Dab4bfYTZRUDMWjYAUQuFbDreQ9mt7nULWu3Dw7jodbzVe9)
+  - [`Ghw9swKjtCTZfEqEmzZkkqK4vEKQFz86HctEdGprQbNzpc7`](https://polkascan.io/pre/kusama/account/Ghw9swKjtCTZfEqEmzZkkqK4vEKQFz86HctEdGprQbNzpc7)
+- [`Fci85YRQtdX12pxajrFipL8PtR1r9W3Cur6B2WV9hwqdNT7`](https://polkascan.io/pre/kusama/account/Fci85YRQtdX12pxajrFipL8PtR1r9W3Cur6B2WV9hwqdNT7) (10811.824615 KSM) nominates:
+  - [`FAp5gVpwhwdmnJ1Ycet9z6Uva5tnfyCfA3AaY7WGi7u3DU4`](https://polkascan.io/pre/kusama/account/FAp5gVpwhwdmnJ1Ycet9z6Uva5tnfyCfA3AaY7WGi7u3DU4)
+  - [`GFE82PQadBP1KhdUTwqfSeRtThUhuYjc8iHGdwMXoAaN3Bn`](https://polkascan.io/pre/kusama/account/GFE82PQadBP1KhdUTwqfSeRtThUhuYjc8iHGdwMXoAaN3Bn)
+  - [`GcqKn3HHodwcFc3Pg3Evcbc43m7qJNMiMv744e5WMSS7TGn`](https://polkascan.io/pre/kusama/account/GcqKn3HHodwcFc3Pg3Evcbc43m7qJNMiMv744e5WMSS7TGn)
+  - [`GpyQahFRepy1LnWYCfyYvLN2REqKwhbjAyTh1R5oLpohwvg`](https://polkascan.io/pre/kusama/account/GpyQahFRepy1LnWYCfyYvLN2REqKwhbjAyTh1R5oLpohwvg)
+  - [`HqE13RoY1yntxvAvySn8ogit5XrX1EAxZe4HPPaFf48q8JM`](https://polkascan.io/pre/kusama/account/HqE13RoY1yntxvAvySn8ogit5XrX1EAxZe4HPPaFf48q8JM)
+  - [`ET9SkhNZhY7KT474vkCEJtAjbgJdaqAGW4beeeUJyDQ3SnA`](https://polkascan.io/pre/kusama/account/ET9SkhNZhY7KT474vkCEJtAjbgJdaqAGW4beeeUJyDQ3SnA)
+- [`HaH26fcBLJSfRCjWaeobrQvkUgBA3NQsSoxv9zjTt4TKakM`](https://polkascan.io/pre/kusama/account/HaH26fcBLJSfRCjWaeobrQvkUgBA3NQsSoxv9zjTt4TKakM) (0.001506 KSM) nominates:
+  - [`GPdebankLfiSGaEPQWJBVULEmX2VpNdnyqsa1uiFJGDhTdT`](https://polkascan.io/pre/kusama/account/GPdebankLfiSGaEPQWJBVULEmX2VpNdnyqsa1uiFJGDhTdT)
+- [`FZbmiSR5WwmVhsCTEEQ3gvXmcU3maiAp9sTVsjoD4LVVAro`](https://polkascan.io/pre/kusama/account/FZbmiSR5WwmVhsCTEEQ3gvXmcU3maiAp9sTVsjoD4LVVAro) (211.103183 KSM) nominates:
+  - [`FygwPLFGJrNwfeL8N5Mcu4craBCMWKZqvkQn79EAwBhPdi9`](https://polkascan.io/pre/kusama/account/FygwPLFGJrNwfeL8N5Mcu4craBCMWKZqvkQn79EAwBhPdi9)
+  - [`GFE82PQadBP1KhdUTwqfSeRtThUhuYjc8iHGdwMXoAaN3Bn`](https://polkascan.io/pre/kusama/account/GFE82PQadBP1KhdUTwqfSeRtThUhuYjc8iHGdwMXoAaN3Bn)
+  - [`CsHw8cfzbnKdkCuUq24yuaPyJ1E5a55sNPqejJZ4h7CRtEs`](https://polkascan.io/pre/kusama/account/CsHw8cfzbnKdkCuUq24yuaPyJ1E5a55sNPqejJZ4h7CRtEs)
+  - [`GcqKn3HHodwcFc3Pg3Evcbc43m7qJNMiMv744e5WMSS7TGn`](https://polkascan.io/pre/kusama/account/GcqKn3HHodwcFc3Pg3Evcbc43m7qJNMiMv744e5WMSS7TGn)
+  - [`EUwcW86EFGDoDfUP2UJYuBwhCWC7cW9SdFH9cPh6UPBvBHj`](https://polkascan.io/pre/kusama/account/EUwcW86EFGDoDfUP2UJYuBwhCWC7cW9SdFH9cPh6UPBvBHj)
+  - [`EAStB93xBDT5cziyLAjeb5j9GnxCfL2QbBczsyje3o3GUvs`](https://polkascan.io/pre/kusama/account/EAStB93xBDT5cziyLAjeb5j9GnxCfL2QbBczsyje3o3GUvs)
+  - [`HjZrUHN1oiEJhHetU44unLsVqcNeSMPu1iZyJoyNK749R3D`](https://polkascan.io/pre/kusama/account/HjZrUHN1oiEJhHetU44unLsVqcNeSMPu1iZyJoyNK749R3D)
+  - [`FcjmeNzPk3vgdENm1rHeiMCxFK96beUoi2kb59FmCoZtkGF`](https://polkascan.io/pre/kusama/account/FcjmeNzPk3vgdENm1rHeiMCxFK96beUoi2kb59FmCoZtkGF)
+  - [`FFdDXFK1VKG5QgjvqwxdVjo8hGrBveaBFfHnWyz1MAmLL82`](https://polkascan.io/pre/kusama/account/FFdDXFK1VKG5QgjvqwxdVjo8hGrBveaBFfHnWyz1MAmLL82)
+  - [`DKWxptgDxUemsMPwRgW3YYD9ng1CPPzdQo2Xu6PuvCcjXfj`](https://polkascan.io/pre/kusama/account/DKWxptgDxUemsMPwRgW3YYD9ng1CPPzdQo2Xu6PuvCcjXfj)
+  - [`HbSZ1bL6HEcBDdLUy7J1aBBPyoPWWqNhv8qv1ifY94t8bGr`](https://polkascan.io/pre/kusama/account/HbSZ1bL6HEcBDdLUy7J1aBBPyoPWWqNhv8qv1ifY94t8bGr)
+- [`FZsv75rjcbgxCXR8k1iWF8AHRfr43FkcCivqF6Ef3Sz7Zb4`](https://polkascan.io/pre/kusama/account/FZsv75rjcbgxCXR8k1iWF8AHRfr43FkcCivqF6Ef3Sz7Zb4) (822.705677119 KSM) nominates:
+  - [`CanLB42xJughpTRC1vXStUryjWYkE679emign1af47QnAQC`](https://polkascan.io/pre/kusama/account/CanLB42xJughpTRC1vXStUryjWYkE679emign1af47QnAQC)
+  - [`Dab4bfYTZRUDMWjYAUQuFbDreQ9mt7nULWu3Dw7jodbzVe9`](https://polkascan.io/pre/kusama/account/Dab4bfYTZRUDMWjYAUQuFbDreQ9mt7nULWu3Dw7jodbzVe9)
+  - [`Ghw9swKjtCTZfEqEmzZkkqK4vEKQFz86HctEdGprQbNzpc7`](https://polkascan.io/pre/kusama/account/Ghw9swKjtCTZfEqEmzZkkqK4vEKQFz86HctEdGprQbNzpc7)
+- [`EwnDjVQU9DzPjux9PntWs29EMQD5xiGUg7nBaFNbVyQKUix`](https://polkascan.io/pre/kusama/account/EwnDjVQU9DzPjux9PntWs29EMQD5xiGUg7nBaFNbVyQKUix) (29325.672299 KSM) nominates:
+  - [`GcqKn3HHodwcFc3Pg3Evcbc43m7qJNMiMv744e5WMSS7TGn`](https://polkascan.io/pre/kusama/account/GcqKn3HHodwcFc3Pg3Evcbc43m7qJNMiMv744e5WMSS7TGn)
+- [`G2iV7VBwciZJFtTNojShznziZhuAt7Q1zUk2hTiqVPMML8a`](https://polkascan.io/pre/kusama/account/G2iV7VBwciZJFtTNojShznziZhuAt7Q1zUk2hTiqVPMML8a) (249.999447 KSM) nominates:
+  - [`CanLB42xJughpTRC1vXStUryjWYkE679emign1af47QnAQC`](https://polkascan.io/pre/kusama/account/CanLB42xJughpTRC1vXStUryjWYkE679emign1af47QnAQC)
+  - [`Dab4bfYTZRUDMWjYAUQuFbDreQ9mt7nULWu3Dw7jodbzVe9`](https://polkascan.io/pre/kusama/account/Dab4bfYTZRUDMWjYAUQuFbDreQ9mt7nULWu3Dw7jodbzVe9)
+  - [`Ghw9swKjtCTZfEqEmzZkkqK4vEKQFz86HctEdGprQbNzpc7`](https://polkascan.io/pre/kusama/account/Ghw9swKjtCTZfEqEmzZkkqK4vEKQFz86HctEdGprQbNzpc7)
 - [`J1wzip8FoqEdWnVQExuNoEoY9x2XNPeJuJ5vsdsHA4tLfC8`](https://polkascan.io/pre/kusama/account/J1wzip8FoqEdWnVQExuNoEoY9x2XNPeJuJ5vsdsHA4tLfC8) (229.402975459 KSM) nominates:
   - [`CanLB42xJughpTRC1vXStUryjWYkE679emign1af47QnAQC`](https://polkascan.io/pre/kusama/account/CanLB42xJughpTRC1vXStUryjWYkE679emign1af47QnAQC)
   - [`Dab4bfYTZRUDMWjYAUQuFbDreQ9mt7nULWu3Dw7jodbzVe9`](https://polkascan.io/pre/kusama/account/Dab4bfYTZRUDMWjYAUQuFbDreQ9mt7nULWu3Dw7jodbzVe9)
@@ -47,7 +128,7 @@ Last update: Mon, 09 Sep 2019 09:38:14 GMT
   - [`CanLB42xJughpTRC1vXStUryjWYkE679emign1af47QnAQC`](https://polkascan.io/pre/kusama/account/CanLB42xJughpTRC1vXStUryjWYkE679emign1af47QnAQC)
   - [`Dab4bfYTZRUDMWjYAUQuFbDreQ9mt7nULWu3Dw7jodbzVe9`](https://polkascan.io/pre/kusama/account/Dab4bfYTZRUDMWjYAUQuFbDreQ9mt7nULWu3Dw7jodbzVe9)
   - [`Ghw9swKjtCTZfEqEmzZkkqK4vEKQFz86HctEdGprQbNzpc7`](https://polkascan.io/pre/kusama/account/Ghw9swKjtCTZfEqEmzZkkqK4vEKQFz86HctEdGprQbNzpc7)
-- [`Hk4ikMifxw6pcR5oL5q49A58kvDASdtoRN7mCt1eSirbtfS`](https://polkascan.io/pre/kusama/account/Hk4ikMifxw6pcR5oL5q49A58kvDASdtoRN7mCt1eSirbtfS) (306.463446 KSM) nominates:
+- [`Hk4ikMifxw6pcR5oL5q49A58kvDASdtoRN7mCt1eSirbtfS`](https://polkascan.io/pre/kusama/account/Hk4ikMifxw6pcR5oL5q49A58kvDASdtoRN7mCt1eSirbtfS) (306.463207 KSM) nominates:
   - [`CanLB42xJughpTRC1vXStUryjWYkE679emign1af47QnAQC`](https://polkascan.io/pre/kusama/account/CanLB42xJughpTRC1vXStUryjWYkE679emign1af47QnAQC)
   - [`Dab4bfYTZRUDMWjYAUQuFbDreQ9mt7nULWu3Dw7jodbzVe9`](https://polkascan.io/pre/kusama/account/Dab4bfYTZRUDMWjYAUQuFbDreQ9mt7nULWu3Dw7jodbzVe9)
   - [`Ghw9swKjtCTZfEqEmzZkkqK4vEKQFz86HctEdGprQbNzpc7`](https://polkascan.io/pre/kusama/account/Ghw9swKjtCTZfEqEmzZkkqK4vEKQFz86HctEdGprQbNzpc7)
